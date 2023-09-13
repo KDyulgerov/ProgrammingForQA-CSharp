@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\10.DaysOTheWeek\bin\Debug\net6.0\10.DaysOTheWeek.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\10.DaysOTheWeek\bin\Debug\net6.0\10.DaysOTheWeek.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\10.DaysOTheWeek\bin\Debug\net6.0\10.DaysOTheWeek.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\10.DaysOTheWeek\bin\Debug\net6.0\10.DaysOTheWeek.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\10.DaysOTheWeek\bin\Debug\net6.0\10.DaysOTheWeek.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\10.DaysOTheWeek\obj\Debug\net6.0\10.DaysOTheWeek.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\10.DaysOTheWeek\obj\Debug\net6.0\10.DaysOTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\10.DaysOTheWeek\obj\Debug\net6.0\10.DaysOTheWeek.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\10.DaysOTheWeek\obj\Debug\net6.0\10.DaysOTheWeek.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\10.DaysOTheWeek\obj\Debug\net6.0\10.DaysOTheWeek.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\10.DaysOTheWeek\obj\Debug\net6.0\10.DaysOTheWeek.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\10.DaysOTheWeek\obj\Debug\net6.0\refint\10.DaysOTheWeek.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\10.DaysOTheWeek\obj\Debug\net6.0\10.DaysOTheWeek.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\10.DaysOTheWeek\obj\Debug\net6.0\10.DaysOTheWeek.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\10.DaysOTheWeek\obj\Debug\net6.0\ref\10.DaysOTheWeek.dll

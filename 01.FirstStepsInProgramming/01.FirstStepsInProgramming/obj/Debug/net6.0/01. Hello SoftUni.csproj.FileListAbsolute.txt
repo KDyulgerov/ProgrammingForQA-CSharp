@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\01.FirstStepsInProgramming\bin\Debug\net6.0\01. Hello SoftUni.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\01.FirstStepsInProgramming\bin\Debug\net6.0\01. Hello SoftUni.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\01.FirstStepsInProgramming\bin\Debug\net6.0\01. Hello SoftUni.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\01.FirstStepsInProgramming\bin\Debug\net6.0\01. Hello SoftUni.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\01.FirstStepsInProgramming\bin\Debug\net6.0\01. Hello SoftUni.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\01.FirstStepsInProgramming\obj\Debug\net6.0\01. Hello SoftUni.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\01.FirstStepsInProgramming\obj\Debug\net6.0\01. Hello SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\01.FirstStepsInProgramming\obj\Debug\net6.0\01. Hello SoftUni.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\01.FirstStepsInProgramming\obj\Debug\net6.0\01. Hello SoftUni.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\01.FirstStepsInProgramming\obj\Debug\net6.0\01. Hello SoftUni.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\01.FirstStepsInProgramming\obj\Debug\net6.0\01. Hello SoftUni.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\01.FirstStepsInProgramming\obj\Debug\net6.0\refint\01. Hello SoftUni.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\01.FirstStepsInProgramming\obj\Debug\net6.0\01. Hello SoftUni.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\01.FirstStepsInProgramming\obj\Debug\net6.0\01. Hello SoftUni.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\01.FirstStepsInProgramming\01.FirstStepsInProgramming\obj\Debug\net6.0\ref\01. Hello SoftUni.dll
