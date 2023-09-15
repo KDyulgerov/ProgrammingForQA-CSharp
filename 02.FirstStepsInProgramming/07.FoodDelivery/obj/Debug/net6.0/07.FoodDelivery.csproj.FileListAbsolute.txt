@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\07.FoodDelivery\bin\Debug\net6.0\07.FoodDelivery.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\07.FoodDelivery\bin\Debug\net6.0\07.FoodDelivery.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\07.FoodDelivery\bin\Debug\net6.0\07.FoodDelivery.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\07.FoodDelivery\bin\Debug\net6.0\07.FoodDelivery.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\07.FoodDelivery\bin\Debug\net6.0\07.FoodDelivery.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\07.FoodDelivery\obj\Debug\net6.0\07.FoodDelivery.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\07.FoodDelivery\obj\Debug\net6.0\07.FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\07.FoodDelivery\obj\Debug\net6.0\07.FoodDelivery.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\07.FoodDelivery\obj\Debug\net6.0\07.FoodDelivery.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\07.FoodDelivery\obj\Debug\net6.0\07.FoodDelivery.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\07.FoodDelivery\obj\Debug\net6.0\07.FoodDelivery.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\07.FoodDelivery\obj\Debug\net6.0\refint\07.FoodDelivery.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\07.FoodDelivery\obj\Debug\net6.0\07.FoodDelivery.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\07.FoodDelivery\obj\Debug\net6.0\07.FoodDelivery.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\07.FoodDelivery\obj\Debug\net6.0\ref\07.FoodDelivery.dll

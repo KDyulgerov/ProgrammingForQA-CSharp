@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\02.RADtoDEG\bin\Debug\net6.0\02.RADtoDEG.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\02.RADtoDEG\bin\Debug\net6.0\02.RADtoDEG.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\02.RADtoDEG\bin\Debug\net6.0\02.RADtoDEG.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\02.RADtoDEG\bin\Debug\net6.0\02.RADtoDEG.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\02.RADtoDEG\bin\Debug\net6.0\02.RADtoDEG.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\02.RADtoDEG\obj\Debug\net6.0\refint\02.RADtoDEG.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\02.FirstStepsInProgramming\02.RADtoDEG\obj\Debug\net6.0\ref\02.RADtoDEG.dll
