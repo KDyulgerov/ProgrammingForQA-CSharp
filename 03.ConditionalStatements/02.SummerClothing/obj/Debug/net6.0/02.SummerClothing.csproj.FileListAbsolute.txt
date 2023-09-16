@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\02.SummerClothing\bin\Debug\net6.0\02.SummerClothing.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\02.SummerClothing\bin\Debug\net6.0\02.SummerClothing.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\02.SummerClothing\bin\Debug\net6.0\02.SummerClothing.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\02.SummerClothing\bin\Debug\net6.0\02.SummerClothing.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\02.SummerClothing\bin\Debug\net6.0\02.SummerClothing.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\02.SummerClothing\obj\Debug\net6.0\refint\02.SummerClothing.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\02.SummerClothing\obj\Debug\net6.0\ref\02.SummerClothing.dll

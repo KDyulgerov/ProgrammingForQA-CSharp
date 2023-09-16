@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\05.Journey\bin\Debug\net6.0\05.Journey.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\05.Journey\bin\Debug\net6.0\05.Journey.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\05.Journey\bin\Debug\net6.0\05.Journey.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\05.Journey\bin\Debug\net6.0\05.Journey.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\05.Journey\bin\Debug\net6.0\05.Journey.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\05.Journey\obj\Debug\net6.0\refint\05.Journey.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\03.ConditionalStatementsNestedConditionalStatements\05.Journey\obj\Debug\net6.0\ref\05.Journey.dll
