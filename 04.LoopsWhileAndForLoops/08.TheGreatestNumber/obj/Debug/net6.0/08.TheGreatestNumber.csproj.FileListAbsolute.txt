@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\08.TheGreatestNumber\bin\Debug\net6.0\08.TheGreatestNumber.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\08.TheGreatestNumber\bin\Debug\net6.0\08.TheGreatestNumber.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\08.TheGreatestNumber\bin\Debug\net6.0\08.TheGreatestNumber.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\08.TheGreatestNumber\bin\Debug\net6.0\08.TheGreatestNumber.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\08.TheGreatestNumber\bin\Debug\net6.0\08.TheGreatestNumber.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\08.TheGreatestNumber\obj\Debug\net6.0\08.TheGreatestNumber.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\08.TheGreatestNumber\obj\Debug\net6.0\08.TheGreatestNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\08.TheGreatestNumber\obj\Debug\net6.0\08.TheGreatestNumber.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\08.TheGreatestNumber\obj\Debug\net6.0\08.TheGreatestNumber.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\08.TheGreatestNumber\obj\Debug\net6.0\08.TheGreatestNumber.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\08.TheGreatestNumber\obj\Debug\net6.0\08.TheGreatestNumber.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\08.TheGreatestNumber\obj\Debug\net6.0\refint\08.TheGreatestNumber.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\08.TheGreatestNumber\obj\Debug\net6.0\08.TheGreatestNumber.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\08.TheGreatestNumber\obj\Debug\net6.0\08.TheGreatestNumber.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\08.TheGreatestNumber\obj\Debug\net6.0\ref\08.TheGreatestNumber.dll

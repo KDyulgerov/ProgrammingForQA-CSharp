@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\02.1ToNReversed\bin\Debug\net6.0\02.1ToNReversed.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\02.1ToNReversed\bin\Debug\net6.0\02.1ToNReversed.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\02.1ToNReversed\bin\Debug\net6.0\02.1ToNReversed.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\02.1ToNReversed\bin\Debug\net6.0\02.1ToNReversed.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\02.1ToNReversed\bin\Debug\net6.0\02.1ToNReversed.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\02.1ToNReversed\obj\Debug\net6.0\02.1ToNReversed.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\02.1ToNReversed\obj\Debug\net6.0\02.1ToNReversed.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\02.1ToNReversed\obj\Debug\net6.0\02.1ToNReversed.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\02.1ToNReversed\obj\Debug\net6.0\02.1ToNReversed.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\02.1ToNReversed\obj\Debug\net6.0\02.1ToNReversed.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\02.1ToNReversed\obj\Debug\net6.0\02.1ToNReversed.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\02.1ToNReversed\obj\Debug\net6.0\refint\02.1ToNReversed.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\02.1ToNReversed\obj\Debug\net6.0\02.1ToNReversed.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\02.1ToNReversed\obj\Debug\net6.0\02.1ToNReversed.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\02.1ToNReversed\obj\Debug\net6.0\ref\02.1ToNReversed.dll

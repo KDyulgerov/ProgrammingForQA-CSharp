@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\09.TheSmallestNumber\bin\Debug\net6.0\09.TheSmallestNumber.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\09.TheSmallestNumber\bin\Debug\net6.0\09.TheSmallestNumber.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\09.TheSmallestNumber\bin\Debug\net6.0\09.TheSmallestNumber.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\09.TheSmallestNumber\bin\Debug\net6.0\09.TheSmallestNumber.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\09.TheSmallestNumber\bin\Debug\net6.0\09.TheSmallestNumber.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\09.TheSmallestNumber\obj\Debug\net6.0\09.TheSmallestNumber.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\09.TheSmallestNumber\obj\Debug\net6.0\09.TheSmallestNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\09.TheSmallestNumber\obj\Debug\net6.0\09.TheSmallestNumber.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\09.TheSmallestNumber\obj\Debug\net6.0\09.TheSmallestNumber.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\09.TheSmallestNumber\obj\Debug\net6.0\09.TheSmallestNumber.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\09.TheSmallestNumber\obj\Debug\net6.0\09.TheSmallestNumber.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\09.TheSmallestNumber\obj\Debug\net6.0\refint\09.TheSmallestNumber.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\09.TheSmallestNumber\obj\Debug\net6.0\09.TheSmallestNumber.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\09.TheSmallestNumber\obj\Debug\net6.0\09.TheSmallestNumber.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\09.TheSmallestNumber\obj\Debug\net6.0\ref\09.TheSmallestNumber.dll

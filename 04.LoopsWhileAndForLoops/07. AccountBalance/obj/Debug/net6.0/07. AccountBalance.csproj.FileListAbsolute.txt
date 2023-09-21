@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\07. AccountBalance\bin\Debug\net6.0\07. AccountBalance.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\07. AccountBalance\bin\Debug\net6.0\07. AccountBalance.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\07. AccountBalance\bin\Debug\net6.0\07. AccountBalance.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\07. AccountBalance\bin\Debug\net6.0\07. AccountBalance.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\07. AccountBalance\bin\Debug\net6.0\07. AccountBalance.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\07. AccountBalance\obj\Debug\net6.0\07. AccountBalance.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\07. AccountBalance\obj\Debug\net6.0\07. AccountBalance.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\07. AccountBalance\obj\Debug\net6.0\07. AccountBalance.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\07. AccountBalance\obj\Debug\net6.0\07. AccountBalance.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\07. AccountBalance\obj\Debug\net6.0\07. AccountBalance.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\07. AccountBalance\obj\Debug\net6.0\07. AccountBalance.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\07. AccountBalance\obj\Debug\net6.0\refint\07. AccountBalance.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\07. AccountBalance\obj\Debug\net6.0\07. AccountBalance.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\07. AccountBalance\obj\Debug\net6.0\07. AccountBalance.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\04.LoopsWhileAndForLoops\07. AccountBalance\obj\Debug\net6.0\ref\07. AccountBalance.dll
