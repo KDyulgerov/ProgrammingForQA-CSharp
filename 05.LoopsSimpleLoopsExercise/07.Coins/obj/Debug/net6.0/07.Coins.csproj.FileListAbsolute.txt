@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\07.Coins\bin\Debug\net6.0\07.Coins.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\07.Coins\bin\Debug\net6.0\07.Coins.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\07.Coins\bin\Debug\net6.0\07.Coins.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\07.Coins\bin\Debug\net6.0\07.Coins.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\07.Coins\bin\Debug\net6.0\07.Coins.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\07.Coins\obj\Debug\net6.0\07.Coins.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\07.Coins\obj\Debug\net6.0\07.Coins.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\07.Coins\obj\Debug\net6.0\07.Coins.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\07.Coins\obj\Debug\net6.0\07.Coins.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\07.Coins\obj\Debug\net6.0\07.Coins.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\07.Coins\obj\Debug\net6.0\07.Coins.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\07.Coins\obj\Debug\net6.0\refint\07.Coins.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\07.Coins\obj\Debug\net6.0\07.Coins.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\07.Coins\obj\Debug\net6.0\07.Coins.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\07.Coins\obj\Debug\net6.0\ref\07.Coins.dll

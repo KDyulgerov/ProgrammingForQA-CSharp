@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\06.Walking\bin\Debug\net6.0\06.Walking.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\06.Walking\bin\Debug\net6.0\06.Walking.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\06.Walking\bin\Debug\net6.0\06.Walking.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\06.Walking\bin\Debug\net6.0\06.Walking.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\06.Walking\bin\Debug\net6.0\06.Walking.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\06.Walking\obj\Debug\net6.0\06.Walking.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\06.Walking\obj\Debug\net6.0\06.Walking.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\06.Walking\obj\Debug\net6.0\06.Walking.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\06.Walking\obj\Debug\net6.0\06.Walking.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\06.Walking\obj\Debug\net6.0\06.Walking.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\06.Walking\obj\Debug\net6.0\06.Walking.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\06.Walking\obj\Debug\net6.0\refint\06.Walking.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\06.Walking\obj\Debug\net6.0\06.Walking.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\06.Walking\obj\Debug\net6.0\06.Walking.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\06.Walking\obj\Debug\net6.0\ref\06.Walking.dll

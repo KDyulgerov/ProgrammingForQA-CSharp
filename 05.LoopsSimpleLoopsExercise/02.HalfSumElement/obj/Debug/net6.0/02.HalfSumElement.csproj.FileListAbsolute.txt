@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\02.HalfSumElement\bin\Debug\net6.0\02.HalfSumElement.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\02.HalfSumElement\bin\Debug\net6.0\02.HalfSumElement.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\02.HalfSumElement\bin\Debug\net6.0\02.HalfSumElement.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\02.HalfSumElement\bin\Debug\net6.0\02.HalfSumElement.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\02.HalfSumElement\bin\Debug\net6.0\02.HalfSumElement.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\02.HalfSumElement\obj\Debug\net6.0\refint\02.HalfSumElement.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\05.LoopsSimpleLoopsExercise\02.HalfSumElement\obj\Debug\net6.0\ref\02.HalfSumElement.dll
