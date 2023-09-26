@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\02.EvenOrOdd\bin\Debug\net6.0\02.EvenOrOdd.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\02.EvenOrOdd\bin\Debug\net6.0\02.EvenOrOdd.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\02.EvenOrOdd\bin\Debug\net6.0\02.EvenOrOdd.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\02.EvenOrOdd\bin\Debug\net6.0\02.EvenOrOdd.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\02.EvenOrOdd\bin\Debug\net6.0\02.EvenOrOdd.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net6.0\02.EvenOrOdd.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net6.0\02.EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net6.0\02.EvenOrOdd.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net6.0\02.EvenOrOdd.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net6.0\02.EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net6.0\02.EvenOrOdd.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net6.0\refint\02.EvenOrOdd.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net6.0\02.EvenOrOdd.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net6.0\02.EvenOrOdd.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net6.0\ref\02.EvenOrOdd.dll

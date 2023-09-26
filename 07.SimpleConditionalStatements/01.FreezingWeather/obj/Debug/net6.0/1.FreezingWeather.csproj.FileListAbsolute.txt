@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\07.SimpleConditionalStatements\bin\Debug\net6.0\1.FreezingWeather.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\07.SimpleConditionalStatements\bin\Debug\net6.0\1.FreezingWeather.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\07.SimpleConditionalStatements\bin\Debug\net6.0\1.FreezingWeather.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\07.SimpleConditionalStatements\bin\Debug\net6.0\1.FreezingWeather.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\07.SimpleConditionalStatements\bin\Debug\net6.0\1.FreezingWeather.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\07.SimpleConditionalStatements\obj\Debug\net6.0\1.FreezingWeather.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\07.SimpleConditionalStatements\obj\Debug\net6.0\1.FreezingWeather.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\07.SimpleConditionalStatements\obj\Debug\net6.0\1.FreezingWeather.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\07.SimpleConditionalStatements\obj\Debug\net6.0\1.FreezingWeather.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\07.SimpleConditionalStatements\obj\Debug\net6.0\1.FreezingWeather.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\07.SimpleConditionalStatements\obj\Debug\net6.0\1.FreezingWeather.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\07.SimpleConditionalStatements\obj\Debug\net6.0\refint\1.FreezingWeather.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\07.SimpleConditionalStatements\obj\Debug\net6.0\1.FreezingWeather.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\07.SimpleConditionalStatements\obj\Debug\net6.0\1.FreezingWeather.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\07.SimpleConditionalStatements\obj\Debug\net6.0\ref\1.FreezingWeather.dll

@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\refint\09.AreaOfFigures.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\07.SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\ref\09.AreaOfFigures.dll
