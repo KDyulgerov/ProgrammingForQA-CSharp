@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming for QA Projects\\07.SimpleConditionalStatements\\03.NumberAsWords\\03.NumberAsWords.csproj",
+      "projectUniqueName": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming Fundamentals and Unit Testing\\ProgrammingForQA-CSharp\\07.SimpleConditionalStatements\\03.NumberAsWords\\03.NumberAsWords.csproj",
       "projectName": "03.NumberAsWords",
-      "projectPath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming for QA Projects\\07.SimpleConditionalStatements\\03.NumberAsWords\\03.NumberAsWords.csproj",
+      "projectPath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming Fundamentals and Unit Testing\\ProgrammingForQA-CSharp\\07.SimpleConditionalStatements\\03.NumberAsWords\\03.NumberAsWords.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming for QA Projects\\07.SimpleConditionalStatements\\03.NumberAsWords\\obj\\",
+      "outputPath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming Fundamentals and Unit Testing\\ProgrammingForQA-CSharp\\07.SimpleConditionalStatements\\03.NumberAsWords\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming for QA Projects\\07.SimpleConditionalStatements\\04.GreaterNumber\\04.GreaterNumber.csproj": {}
+    "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming Fundamentals and Unit Testing\\ProgrammingForQA-CSharp\\07.SimpleConditionalStatements\\04.GreaterNumber\\04.GreaterNumber.csproj": {}
   },
   "projects": {
-    "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming for QA Projects\\07.SimpleConditionalStatements\\04.GreaterNumber\\04.GreaterNumber.csproj": {
+    "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming Fundamentals and Unit Testing\\ProgrammingForQA-CSharp\\07.SimpleConditionalStatements\\04.GreaterNumber\\04.GreaterNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming for QA Projects\\07.SimpleConditionalStatements\\04.GreaterNumber\\04.GreaterNumber.csproj",
+        "projectUniqueName": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming Fundamentals and Unit Testing\\ProgrammingForQA-CSharp\\07.SimpleConditionalStatements\\04.GreaterNumber\\04.GreaterNumber.csproj",
         "projectName": "04.GreaterNumber",
-        "projectPath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming for QA Projects\\07.SimpleConditionalStatements\\04.GreaterNumber\\04.GreaterNumber.csproj",
+        "projectPath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming Fundamentals and Unit Testing\\ProgrammingForQA-CSharp\\07.SimpleConditionalStatements\\04.GreaterNumber\\04.GreaterNumber.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming for QA Projects\\07.SimpleConditionalStatements\\04.GreaterNumber\\obj\\",
+        "outputPath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming Fundamentals and Unit Testing\\ProgrammingForQA-CSharp\\07.SimpleConditionalStatements\\04.GreaterNumber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming for QA Projects\\07.SimpleConditionalStatements\\09.AreaOfFigures\\09.AreaOfFigures.csproj",
+      "projectUniqueName": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming Fundamentals and Unit Testing\\ProgrammingForQA-CSharp\\07.SimpleConditionalStatements\\09.AreaOfFigures\\09.AreaOfFigures.csproj",
       "projectName": "09.AreaOfFigures",
-      "projectPath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming for QA Projects\\07.SimpleConditionalStatements\\09.AreaOfFigures\\09.AreaOfFigures.csproj",
+      "projectPath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming Fundamentals and Unit Testing\\ProgrammingForQA-CSharp\\07.SimpleConditionalStatements\\09.AreaOfFigures\\09.AreaOfFigures.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming for QA Projects\\07.SimpleConditionalStatements\\09.AreaOfFigures\\obj\\",
+      "outputPath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming Fundamentals and Unit Testing\\ProgrammingForQA-CSharp\\07.SimpleConditionalStatements\\09.AreaOfFigures\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

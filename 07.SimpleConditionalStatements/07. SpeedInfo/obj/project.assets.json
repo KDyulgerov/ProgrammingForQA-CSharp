@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming for QA Projects\\07.SimpleConditionalStatements\\07. SpeedInfo\\07. SpeedInfo.csproj",
+      "projectUniqueName": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming Fundamentals and Unit Testing\\ProgrammingForQA-CSharp\\07.SimpleConditionalStatements\\07. SpeedInfo\\07. SpeedInfo.csproj",
       "projectName": "07. SpeedInfo",
-      "projectPath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming for QA Projects\\07.SimpleConditionalStatements\\07. SpeedInfo\\07. SpeedInfo.csproj",
+      "projectPath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming Fundamentals and Unit Testing\\ProgrammingForQA-CSharp\\07.SimpleConditionalStatements\\07. SpeedInfo\\07. SpeedInfo.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming for QA Projects\\07.SimpleConditionalStatements\\07. SpeedInfo\\obj\\",
+      "outputPath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming Fundamentals and Unit Testing\\ProgrammingForQA-CSharp\\07.SimpleConditionalStatements\\07. SpeedInfo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

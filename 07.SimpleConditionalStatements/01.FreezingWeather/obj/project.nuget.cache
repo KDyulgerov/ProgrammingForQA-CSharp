@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y7pzYJ6hRzxY9JGc9ldfdH+ohhPD1Nvq95WNmzzQgJdE/saiUZzXBacNVtqezq9u5rxszgZgKpS+k6Qs3n2sHw==",
+  "dgSpecHash": "xn+4RXq5FGFYk4Q1PEY2xKPIdjLM5XYDsu4spLY0uL3BVS/Oy368XUPmS5TOmhwWy1o480d7RbK60vPfw5vzNQ==",
   "success": true,
-  "projectFilePath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming for QA Projects\\07.SimpleConditionalStatements\\01.FreezingWeather\\01.FreezingWeather.csproj",
+  "projectFilePath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming Fundamentals and Unit Testing\\ProgrammingForQA-CSharp\\07.SimpleConditionalStatements\\01.FreezingWeather\\01.FreezingWeather.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

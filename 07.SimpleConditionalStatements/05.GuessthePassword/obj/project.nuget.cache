@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BVnsdxZ8dwu8BAlHbK6BwFDntSw5IdLbcXBBsjKQf8T+FV5ZvPUO0uhzfmrKjQgemKMiIbXHAwgZyzhq91l3xA==",
+  "dgSpecHash": "qqI0VlWdKEc99ij7vG+3vHKMjm48F/B6tpjEqJO5+E8p7t1Dx2fewbJ6LipQpKTQ+ciHNwyl1ocFRADjupOHMg==",
   "success": true,
-  "projectFilePath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming for QA Projects\\07.SimpleConditionalStatements\\05.GuessthePassword\\05.GuessThePassword.csproj",
+  "projectFilePath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming Fundamentals and Unit Testing\\ProgrammingForQA-CSharp\\07.SimpleConditionalStatements\\05.GuessthePassword\\05.GuessThePassword.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

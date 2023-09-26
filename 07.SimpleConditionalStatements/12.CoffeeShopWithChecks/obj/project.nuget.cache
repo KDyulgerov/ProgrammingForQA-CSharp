@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Za2pIZNdsTTtKL/LPkFAMl210IscK4YX17irtOno2r92Rvhz35FQ2gcawxkqmBlGT38Nn5Ad/GMsl+LSH7Zcyw==",
+  "dgSpecHash": "8AcqFq7Z2D3YOOl7Ziv/IQCWh+0KZa9zCoOhupEMW/5PtXhE3mInoSP58xaRh/mFZQROMTMj+1X1XoTfxo1e4A==",
   "success": true,
-  "projectFilePath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming for QA Projects\\07.SimpleConditionalStatements\\12.CoffeeShopWithChecks\\12.CoffeeShopWithChecks.csproj",
+  "projectFilePath": "D:\\KD\\SoftUni\\QA Programming Fundamentals\\Programming Fundamentals and Unit Testing\\ProgrammingForQA-CSharp\\07.SimpleConditionalStatements\\12.CoffeeShopWithChecks\\12.CoffeeShopWithChecks.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
