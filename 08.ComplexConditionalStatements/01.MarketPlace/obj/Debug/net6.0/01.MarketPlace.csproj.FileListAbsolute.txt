@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\08.ComplexConditionalStatements\bin\Debug\net6.0\01.MarketPlace.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\08.ComplexConditionalStatements\bin\Debug\net6.0\01.MarketPlace.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\08.ComplexConditionalStatements\bin\Debug\net6.0\01.MarketPlace.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\08.ComplexConditionalStatements\bin\Debug\net6.0\01.MarketPlace.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\08.ComplexConditionalStatements\bin\Debug\net6.0\01.MarketPlace.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\08.ComplexConditionalStatements\obj\Debug\net6.0\01.MarketPlace.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\08.ComplexConditionalStatements\obj\Debug\net6.0\01.MarketPlace.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\08.ComplexConditionalStatements\obj\Debug\net6.0\01.MarketPlace.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\08.ComplexConditionalStatements\obj\Debug\net6.0\01.MarketPlace.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\08.ComplexConditionalStatements\obj\Debug\net6.0\01.MarketPlace.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\08.ComplexConditionalStatements\obj\Debug\net6.0\01.MarketPlace.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\08.ComplexConditionalStatements\obj\Debug\net6.0\refint\01.MarketPlace.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\08.ComplexConditionalStatements\obj\Debug\net6.0\01.MarketPlace.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\08.ComplexConditionalStatements\obj\Debug\net6.0\01.MarketPlace.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\08.ComplexConditionalStatements\obj\Debug\net6.0\ref\01.MarketPlace.dll

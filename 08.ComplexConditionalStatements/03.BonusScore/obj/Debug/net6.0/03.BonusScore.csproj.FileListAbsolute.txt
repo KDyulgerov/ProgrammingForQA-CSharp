@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\03.BonusScore\bin\Debug\net6.0\03.BonusScore.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\03.BonusScore\bin\Debug\net6.0\03.BonusScore.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\03.BonusScore\bin\Debug\net6.0\03.BonusScore.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\03.BonusScore\bin\Debug\net6.0\03.BonusScore.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\03.BonusScore\bin\Debug\net6.0\03.BonusScore.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\refint\03.BonusScore.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\ref\03.BonusScore.dll

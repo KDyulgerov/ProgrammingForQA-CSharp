@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\05.FruitOrVegetable\bin\Debug\net6.0\05.FruitOrVegetable.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\05.FruitOrVegetable\bin\Debug\net6.0\05.FruitOrVegetable.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\05.FruitOrVegetable\bin\Debug\net6.0\05.FruitOrVegetable.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\05.FruitOrVegetable\bin\Debug\net6.0\05.FruitOrVegetable.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\05.FruitOrVegetable\bin\Debug\net6.0\05.FruitOrVegetable.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\05.FruitOrVegetable\obj\Debug\net6.0\refint\05.FruitOrVegetable.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Programming for QA Projects\08.ComplexConditionalStatements\05.FruitOrVegetable\obj\Debug\net6.0\ref\05.FruitOrVegetable.dll
